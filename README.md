@@ -13,6 +13,7 @@ This is another line.
 3. _Hedgehogs_ 
 
 ![Santa Monica](../images/palmtrees01.jpg)
+
 [Lynda](http://Lynda.com)
 
 As Dwight from The Office once said:
