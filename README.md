@@ -1,5 +1,5 @@
-#Repos and What Not
-##Get ready for some markdown fun.
+# Repos and What Not
+## Get ready for some markdown fun.
 This is my *first* repo. 
 There's nothing __intersting__ I want to say here. 
 This is another line. 
@@ -7,7 +7,7 @@ This is another line.
 
 * Colors of **UNI**
   * Purple 
-  * Gold 
+  * Gold
 1. Dogs
 2. Cats
 3. _Hedgehogs_ 
@@ -26,6 +26,7 @@ Only 2 more weeks of school left! \*starts clapping\*
      console.log("hello world, I coded something");
    }
    '''
+ 
  This is a list of my routine so far today
  -[x] Wake up :sunrise: 
  -[x] Drink Coffee :coffee:
