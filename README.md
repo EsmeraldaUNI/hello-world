@@ -26,14 +26,23 @@ Only 2 more weeks of school left! \*starts clapping\*
      console.log("hello world, I coded something");
    }
    '''
- 
- This is a list of my routine so far today
+function test() {
+  console.log("hello world, I coded something");
+}
+   
+This is a list of my routine so far today
  -[x] Wake up :sunrise: 
+ 
  -[x] Drink Coffee :coffee:
+ 
  -[x] Go to classes :apple:
+ 
  -[x] Work on projects/assignments :books:
+ 
  -[ ] Nap (sadly) :disappointed:
+ 
  -[x] Enjoy the Weather :sunny:
+ 
  -[ ] Sleep :sleeping:
  
 Winter | Summer
