@@ -1,7 +1,7 @@
 # Repos and What Not
 ## Get ready for some markdown fun.
 This is my *first* repo. 
-There's nothing __intersting__ I want to say here. 
+There's nothing __interesting__ I want to say here. 
 This is another line. 
 **that's enough**
 
