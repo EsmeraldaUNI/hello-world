@@ -21,19 +21,19 @@ As Dwight from The Office once said:
 
 Only 2 more weeks of school left! \*starts clapping\*
 
-'''javascript 
-   function test() {
-     console.log("hello world, I coded something");
-   }
-   '''
+---
+
+```javascript
 function test() {
-  console.log("hello world, I coded something");
+ console.log("hello world, I coded something");
 }
-   
+```
+
 This is a list of my routine so far today
+
  -[x] Wake up :sunrise: 
  
- -[x] Drink Coffee :coffee:
+ -[x] Drink coffee :coffee:
  
  -[x] Go to classes :apple:
  
@@ -41,7 +41,7 @@ This is a list of my routine so far today
  
  -[ ] Nap (sadly) :disappointed:
  
- -[x] Enjoy the Weather :sunny:
+ -[x] Enjoy the weather :sunny:
  
  -[ ] Sleep :sleeping:
  
@@ -50,3 +50,7 @@ Winter | Summer
 Cold   | Hot
 Snow   | Rain
 Clouds | Sun
+
+---
+
+@manicsparkle
